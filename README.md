@@ -15,7 +15,7 @@
 
 
 
-<p><img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="45%" /></p>
+<p><img  align="right" src="https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif" alt="adam-pw" width="45%" height="400" /></p>
 
 # 💫 About Me:
 
