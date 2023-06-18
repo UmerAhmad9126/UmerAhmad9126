@@ -108,10 +108,4 @@
 </p>
 
 
-<div>
-  <p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=umerahmad9126" alt="umerahmad9126" height="200" />
-    </a>
-</p>
-</div>
+
