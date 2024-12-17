@@ -20,7 +20,10 @@
 # 💫 About Me:
 
 
-<br>🌱 I’m currently learning MERN Stack.<br>
+<br>A Computer Science graduate with a B.Tech degree, specializing in MERN stack development with a focus on React.js
+and JavaScript. Known for quick learning abilities and thriving in collaborative environments. Possessing a passion
+for problem-solving and a knack for teamwork, eager to contribute to impactful projects and continue growing as a
+developer.<br>
 <br>📄 Check out my [Resume](https://drive.google.com/file/d/1nvptm9d35XdSoHzWJkNmpZcC1r9MnHuW/view?usp=sharing)<br>
 <br>💻 Know more about me Portfilio(https://umerahmad9126.github.io/)<br>
 <br>💻 All of my projects are available at My [Github Repositories](https://github.com/UmerAhmad9126?tab=repositories)<br>
