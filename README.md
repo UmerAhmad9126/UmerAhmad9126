@@ -20,8 +20,6 @@
 
 ## 👋 Who Am I?
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="38%" style="border-radius:12px" />
-
 ```ts
 const umerAhmad = {
   role      : "Backend-Focused Full Stack Engineer",
