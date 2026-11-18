@@ -1,113 +1,224 @@
+<!-- Animated Wave Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Umer%20Ahmad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend-Focused%20Full%20Stack%20Engineer%20%7C%20MERN%20%7C%20AWS%20%7C%20Microservices&descAlignY=58&descSize=17&descColor=a5f7db" />
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                         UMER AHMAD — GitHub Profile README                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<!-- 🌊 ANIMATED HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Umer%20Ahmad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Web%20Developer%20%7C%20MERN%20Stack%20Enthusiast&descAlignY=55&descSize=18" />
-
-</div>
-
-<!-- 🧑‍💻 TYPING ANIMATION -->
-<div align="center">
+<!-- Typing Animation -->
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A5F7DB&center=true&vCenter=true&width=700&lines=💡+Building+Ideas+into+Reality;⚡+MERN+Stack+Developer;🚀+React.js+%7C+Node.js+%7C+MongoDB;🌐+Turning+Coffee+into+Code...;🎯+Open+to+Exciting+Opportunities!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=A5F7DB&center=true&vCenter=true&multiline=false&width=750&lines=🚀+3.5%2B+years+building+production-grade+SaaS+platforms;⚡+1M%2B+bulk+legal+notices+processed+per+day;🔧+Node.js+%7C+React.js+%7C+AWS+%7C+Docker+%7C+TypeScript;🏢+SDE-1+%40+Veritas+Law+Partners+%7C+Open+to+Opportunities;🌐+Bengaluru%2C+India+•+Immediate+Joiner" alt="Typing SVG" />
   </a>
-</div>
+</p>
 
-<br/>
-
-<!-- 🏅 PROFILE VIEWS + BADGES -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=umerahmad9126&label=👁️%20Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/umerahmad9126?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba" />
-  <a href="https://github.com/UmerAhmad9126?tab=stars">
-    <img src="https://img.shields.io/github/stars/umerahmad9126?label=Stars&style=for-the-badge&color=f39c12&labelColor=e67e22" />
-  </a>
-</div>
-
-<br/>
+<!-- Badges Row -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=umerahmad9126&label=Profile+Views&color=blueviolet&style=flat-square" />
+  <img src="https://img.shields.io/badge/Experience-3.5%2B%20Years-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Immediate%20Joiner-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-blue?style=flat-square&logo=google-maps&logoColor=white" />
+</p>
 
 ---
 
-## 🙋‍♂️ About Me
+## 👋 Who Am I?
 
-<img align="right" src="https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif" alt="coding gif" width="38%" style="border-radius: 12px;" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="38%" style="border-radius:12px" />
 
-```yaml
-Name        : Umer Ahmad
-Degree      : B.Tech — Computer Science
-Role        : Full Stack Web Developer (MERN)
-Location    : India 🇮🇳
-Passion     : Problem Solving & Clean UI
-Status      : Open to work 🟢
+```ts
+const umerAhmad = {
+  role      : "Backend-Focused Full Stack Engineer",
+  company   : "Veritas Law Partners (SDE-1)",
+  prev      : "Areness Law (Software Developer)",
+  experience: "3.5+ years",
+  education : [
+    "B.Tech CS — Dr. APJ Abdul Kalam Technical University",
+    "Full Stack Dev — Masai School (Certified)",
+    "Diploma CS — Azad Lucknow Polytechnic"
+  ],
+  specialty : [
+    "Multi-tenant SaaS platforms",
+    "High-throughput bulk processing (1M+ notices/day)",
+    "Microservices & Cloud infra (AWS)"
+  ],
+  clients   : ["SBI", "HDFC", "Vodafone", "Toyota", "MobiKwik"],
+  status    : "Open to Opportunities 🟢"
+};
 ```
-
-🎯 **B.Tech Computer Science** graduate specializing in the **MERN stack** with a deep love for **React.js** and **JavaScript**.
-
-🤝 I thrive in **collaborative environments**, love cracking tough problems, and am always eager to contribute to impactful, real-world projects.
-
-🌱 Currently exploring **TypeScript**, **Next.js**, and **Cloud Deployment** to level up my full-stack game.
-
-📄 **[View My Resume](https://drive.google.com/file/d/1nvptm9d35XdSoHzWJkNmpZcC1r9MnHuW/view?usp=sharing)** &nbsp;|&nbsp; 🌐 **[Visit My Portfolio](https://umerahmad9126.github.io/)** &nbsp;|&nbsp; 📧 **[ahmadumer9126@gmail.com](mailto:ahmadumer9126@gmail.com)**
 
 <br clear="right"/>
 
----
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umer-ahmad-515437217/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://umerahmad9126.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UmerAhmad9126)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadumer9126@gmail.com)
-
-</div>
+🔗 **[ahmadumer9126@gmail.com](mailto:ahmadumer9126@gmail.com)** &nbsp;|&nbsp; 📄 **[Resume](https://drive.google.com/file/d/1ZucE0s6-ZTDLe5AXIaeCqvDl9yRX4bg8/view?usp=sharing)** &nbsp;|&nbsp; 🌐 **[Portfolio](https://umerahmad9126.github.io/)** &nbsp;|&nbsp; 📞 **+91 7903438621**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🌐 Connect
 
-### 🎨 Frontend
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/umer-ahmad-515437217/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://github.com/UmerAhmad9126" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://umerahmad9126.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>&nbsp;
+  <a href="mailto:ahmadumer9126@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+---
 
-</div>
+## 🛠️ Full Tech Arsenal
 
-### ⚙️ Backend
-<div align="center">
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chakra_UI-4ED1C5?style=for-the-badge&logo=chakraui&logoColor=white" />
+</p>
+</details>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<details open>
+<summary><b>⚙️ Backend</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+  <img src="https://img.shields.io/badge/OAuth2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-0075A8?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+</p>
+</details>
 
-</div>
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+</details>
 
-### 🧰 Tools & Platforms
-<div align="center">
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+</details>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+<details>
+<summary><b>🔌 Integrations & Tools</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
+  <img src="https://img.shields.io/badge/SendGrid-1A82E2?style=for-the-badge&logo=sendgrid&logoColor=white" />
+  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</p>
+</details>
 
-</div>
+---
+
+## 💼 Experience
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 SDE-1 — Veritas Law Partners
+**Dec 2025 – Present** | Gurugram, India 🇮🇳
+
+🔗 [veritasgloballaw.com](https://veritasgloballaw.com/)
+
+- 🏗️ Co-built **Sandhee ODR Platform** from scratch → **live in production**, handling arbitration workflows for SBI & Toyota
+- 📬 Architected **multi-channel notification system** delivering **1L+ legal notices/day** via WhatsApp, Email & SMS
+- ⚙️ Built automation tools saving **12 hours/week** of manual team effort
+- 🎨 Developed responsive React.js interfaces translating complex legal processes into intuitive UX
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Software Developer — Areness Law
+**June 2023 – Dec 2025** | Delhi, India 🇮🇳
+
+🔗 [arenesslaw.com](https://arenesslaw.com/)
+
+- ⚡ Engineered LMS processing **1M+ bulk legal notices/day** for SBI, HDFC, Vodafone & MobiKwik
+- 🚀 Boosted API throughput by **40%** via Redis caching, query tuning & service-layer refactoring
+- ☁️ Designed & maintained **AWS infra** (EC2, ALB, Auto Scaling) achieving **99.9% uptime**
+- 🔗 Unified multi-channel comms integrating NexG & SendGrid across WhatsApp, Email & SMS
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 📋 Litigation Management System
+**July 2024 – Dec 2025** | [lms.recqarz.com](https://lms.recqarz.com/)
+
+> *Full Stack Developer*
+
+- Multi-tenant LMS for SBI, HDFC, Vodafone & MobiKwik
+- Processes **1M+ bulk legal notices/day** via Email, SMS & WhatsApp with real-time delivery tracking
+- Async processing pipelines using **Node.js + MongoDB + AWS** — zero-loss at production scale
+- Integrated **Twilio, NexG, R2Win & SendGrid** with multilingual PDF generation
+
+**Stack:** `Node.js` `React.js` `MongoDB` `AWS` `Twilio` `SendGrid`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚖️ Sandhee ODR — Online Dispute Resolution
+**Jan 2025 – Present** | [odrx.sandhee.com](https://odrx.sandhee.com/)
+
+> *Full Stack Developer*
+
+- Production-grade ODR platform for SBI & Toyota handling **end-to-end arbitration workflows**
+- React.js + Redux admin dashboards for bulk case management, advocate tracking & dispute resolution
+- Integrated **AWS S3, Puppeteer** (automated PDF generation), NexG & SendGrid
+- Live in production, enterprise-ready
+
+**Stack:** `React.js` `Redux` `Node.js` `AWS S3` `Puppeteer` `NexG`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -115,86 +226,49 @@ Status      : Open to work 🟢
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=umerahmad9126&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=umerahmad9126&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=umerahmad9126&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=umerahmad9126&theme=tokyonight&hide_border=true" />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=umerahmad9126&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
+<!-- GitHub Trophies -->
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=umerahmad9126&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-<!-- 🏆 GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umerahmad9126&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=umerahmad9126&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 
 ---
 
-## 🔥 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umerahmad9126&bg_color=1a1b27&color=a5f7db&line=5bcdec&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umerahmad9126&bg_color=1a1b27&color=a5f7db&line=5bcdec&point=ffffff&area=true&area_color=302b6350&hide_border=true&custom_title=Umer's%20Contribution%20Graph" />
 </div>
 
 ---
 
-## 💡 What I Ask Me About
+## 🎓 Education
+
+| Degree | Institution | Year |
+|:---|:---|:---|
+| 🎓 **B.Tech — Computer Science** | Dr. APJ Abdul Kalam Technical University, Lucknow | 2021 – 2024 |
+| 💻 **Full Stack Development** | Masai School *(Certified)* | 2022 – 2023 |
+| 📜 **Diploma — Computer Science** | Azad Lucknow Polytechnic | 2017 – 2020 |
+
+---
+
+## 💬 Dev Quote of the Day
 
 <div align="center">
-
-| 🌐 Frontend | ⚙️ Backend | 🧠 Concepts |
-|:---:|:---:|:---:|
-| HTML, CSS, JS | Node.js | REST APIs |
-| React.js | Express.js | Data Structures |
-| Redux | MongoDB | Problem Solving |
-| Chakra UI | Mongoose | Responsive Design |
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 ---
 
-## 📌 Featured Projects
-
-> 🚀 Check out all my projects at **[GitHub Repositories](https://github.com/UmerAhmad9126?tab=repositories)**
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umerahmad9126&repo=umerahmad9126&theme=tokyonight&hide_border=true)](https://github.com/UmerAhmad9126?tab=repositories)
-
-</div>
-
----
-
-## 🎯 2025 Goals
-
-```
-✅ Build 3+ Full-Stack Projects
-🔄 Master TypeScript & Next.js
-🔄 Contribute to Open Source
-🔄 Land a Full-Stack Developer Role
-🔄 Explore Cloud (AWS/Firebase)
-```
-
----
+<!-- Animated Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=fadeIn" />
 
 <div align="center">
-
-### 💬 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<!-- 🌊 FOOTER WAVE -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-</div>
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/UmerAhmad9126">Umer Ahmad</a> — Let's build something amazing together!</i>
+  <sub>⭐ From <a href="https://github.com/UmerAhmad9126"><b>Umer Ahmad</b></a> — Building impactful systems, one commit at a time.</sub>
 </div>
