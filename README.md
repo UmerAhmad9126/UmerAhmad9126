@@ -4,7 +4,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=A5F7DB&center=true&vCenter=true&multiline=false&width=750&lines=🚀+3.5%2B+years+building+production-grade+SaaS+platforms;⚡+1M%2B+bulk+legal+notices+processed+per+day;🔧+Node.js+%7C+React.js+%7C+AWS+%7C+Docker+%7C+TypeScript;🏢+SDE-1+%40+Veritas+Law+Partners+%7C+Open+to+Opportunities;🌐+Bengaluru%2C+India+•+Immediate+Joiner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=A5F7DB&center=true&vCenter=true&multiline=false&width=800&lines=3.5%2B+years+building+production-grade+SaaS;Node.js+%7C+React.js+%7C+AWS+%7C+Docker+%7C+TypeScript;SDE-1+%40+Veritas+Law+Partners;Gurugram%2C+India+--+Immediate+Joiner" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=umerahmad9126&label=Profile+Views&color=blueviolet&style=flat-square" />
   <img src="https://img.shields.io/badge/Experience-3.5%2B%20Years-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Immediate%20Joiner-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-blue?style=flat-square&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Gurugram%2C%20India-blue?style=flat-square&logo=google-maps&logoColor=white" />
 </p>
 
 ---
@@ -226,16 +226,13 @@ const umerAhmad = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=umerahmad9126&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=umerahmad9126&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://awesome-github-stats.azurewebsites.net/user-stats/umerahmad9126?cardType=level&theme=tokyonight" />
+<img width="49%" src="https://streak-stats.demolab.com?user=umerahmad9126&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=umerahmad9126&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<br/>
 
-</div>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=umerahmad9126&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umerahmad9126&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 
 ---
