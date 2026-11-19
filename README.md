@@ -1,4 +1,4 @@
-<!-- Animated Wave Header -->
+<!-- Animated Wave Header --> 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Umer%20Ahmad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend-Focused%20Full%20Stack%20Engineer%20%7C%20MERN%20%7C%20AWS%20%7C%20Microservices&descAlignY=58&descSize=17&descColor=a5f7db" />
 
 <!-- Typing Animation -->
