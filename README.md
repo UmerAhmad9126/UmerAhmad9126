@@ -43,7 +43,7 @@ const umerAhmad = {
 
 <br clear="right"/>
 
-🔗 **[ahmadumer9126@gmail.com](mailto:ahmadumer9126@gmail.com)** &nbsp;|&nbsp; 📄 **[Resume](https://drive.google.com/file/d/1ZucE0s6-ZTDLe5AXIaeCqvDl9yRX4bg8/view?usp=sharing)** &nbsp;|&nbsp; 🌐 **[Portfolio](https://umerahmad9126.github.io/)** &nbsp;|&nbsp; 📞 **+91 7903438621**
+🔗 **[ahmadumer9126@gmail.com](mailto:ahmadumer9126@gmail.com)** &nbsp;|&nbsp; 📄 **[Resume](https://drive.google.com/file/d/1nvptm9d35XdSoHzWJkNmpZcC1r9MnHuW/view?usp=drive_link)** &nbsp;|&nbsp; 🌐 **[Portfolio](https://umerahmad9126.github.io/)** &nbsp;|&nbsp; 📞 **+91 7903438621**
 
 ---
 
